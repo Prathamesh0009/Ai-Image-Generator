@@ -1,2 +1,2 @@
-# Ai-Image-Generator
-Ai Image Generator Project using OpenAi API
+# Ai Image Generator Project using OpenAi API
+
